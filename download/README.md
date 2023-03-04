@@ -3,7 +3,7 @@
 ## Скачать Кумир для Windows
 https://github.com/WISEPLAT/Kumir_Lessons/raw/main/download/kumir2-2.1.0-rc11-install.exe
 
-## Скачать Кумир для Mac ()
+## Скачать Кумир для Mac (https://github.com/WISEPLAT/Kumir_Lessons/raw/main/download/ИНСТРУКЦИЯ%20ПО%20УСТАНОВКЕ%20ПО%20для%20MAC.pdf)
 https://github.com/WISEPLAT/Kumir_Lessons/raw/main/download/Kumir-2.dmg
 
 ## Скачать Кумир для Linux
